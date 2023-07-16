@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HuijingJia
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : katejia15@gmail.com

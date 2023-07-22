@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HuijingJia
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m learning flexbox on July 22nd. https://appbrewery.github.io/flexboxfroggy/
 - 📫 How to reach me : katejia15@gmail.com
 
 <!---
